@@ -73,7 +73,7 @@ $servername = "localhost";
 
 $username = "root";
 
-$password = ""; // در فایل confin می تونید پیدا بکنید
+$password = ""; 
 
 $dbname = "coffee_project";
 
